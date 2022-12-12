@@ -1,4 +1,4 @@
-TransformersBattleCards	12-12-22
+TransformersBattlecards	12-12-22
 plugins/TransformersBattlecards/version.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/version.txt	37400
 plugins/TransformersBattlecards/bot.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/bot.jpg	-26978
 plugins/TransformersBattlecards/formats.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/formats.txt	19676
