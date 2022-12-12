@@ -1,154 +1,219 @@
-Name	Set	ImageFile	Type	Mode
-Brothers in Arms	Alpha	Brothers_in_Arms	Advantage, Autobot	
-Bump and Run	Alpha	Bump_and_Run	Advantage, Autobot	
-Buried Alive	Alpha	Buried_Alive	Advantage, Autobot	
-Concentrated Fire	Alpha	Concentrated_Fire	Advantage, Autobot	
-Conned 'Con	Alpha	Conned_Con	Advantage, Autobot	
-Continuous Tinkering	Alpha	Continuous_Tinkering	Advantage, Autobot	
-Dinobot Crackdown	Alpha	Dinobot_Crackdown	Advantage, Autobot	
-Disrupted Supply Lines	Alpha	Disrupted_Supply_Lines	Advantage, Autobot	
-Electro-Mesh Prison	Alpha	Electro-Mesh_Prison	Advantage, Autobot	
-Equally Unstable Ground	Alpha	Equally_Unstable_Ground	Advantage, Autobot	
-Grapling Dart	Alpha	Grapling_Dart	Advantage, Autobot	
-Heroic Rescue	Alpha	Heroic_Rescue	Advantage, Autobot	
-Hidden Bumber Gun	Alpha	Hidden_Bumber_Gun	Advantage, Autobot	
-Hydrofoil Conversion	Alpha	Hydrofoil_Conversion	Advantage, Autobot	
-Interception	Alpha	Interception	Advantage, Autobot	
-Jet Tether	Alpha	Jet_Tether	Advantage, Autobot	
-Jetpack	Alpha	Jetpack	Advantage, Autobot	
-Life Line	Alpha	Life_Line	Advantage, Autobot	
-Nimble Evasion	Alpha	Nimble_Evasion	Advantage, Autobot	
-On Patrol	Alpha	On_Patrol	Advantage, Autobot	
-Overhaul	Alpha	Overhaul	Advantage, Autobot	
-Plugging the Works	Alpha	Plugging_the_Works	Advantage, Autobot	
-Prehistoric Posse	Alpha	Prehistoric_Posse	Advantage, Autobot	
-Pushing Forward	Alpha	Pushing_Forward	Advantage, Autobot	
-Rescue Partners	Alpha	Rescue_Partners	Advantage, Autobot	
-Shoulder Mounted Rocket	Alpha	Shoulder_Mounted_Rocket	Advantage, Autobot	
-Valiant Charge	Alpha	Valiant_Charge	Advantage, Autobot	
-Alligaticon Prime	Alpha	Alligaticon_Prime	Advantage, Decepticon	
-Baseless Accusations	Alpha	Baseless_Accusations	Advantage, Decepticon	
-Circuit Linker	Alpha	Circuit_Linker	Advantage, Decepticon	
-Constructicons Unite!	Alpha	Constructicons_Unite	Advantage, Decepticon	
-Data Thief	Alpha	Data_Thief	Advantage, Decepticon	
-Death From Above	Alpha	Death_From_Above	Advantage, Decepticon	
-Deathtrap	Alpha	Deathtrap	Advantage, Decepticon	
-Direct Hit	Alpha	Direct_Hit	Advantage, Decepticon	
-Dome of Invulnerability (SubAtlantican)	Alpha	Dome_of_Invulnerability_	Advantage, Decepticon	
-Expert Work Crew	Alpha	Expert_Work_Crew	Advantage, Decepticon	
-Fire from Cover	Alpha	Fire_from_Cover	Advantage, Decepticon	
-Homing Laser	Alpha	Homing_Laser	Advantage, Decepticon	
-Impersonation	Alpha	Impersonation	Advantage, Decepticon	
-Insecticons Arise	Alpha	Insecticons_Arise	Advantage, Decepticon	
-Invisibility Spray	Alpha	Invisibility_Spray	Advantage, Decepticon	
-Long Range Theft	Alpha	Long_Range_Theft	Advantage, Decepticon	
-Mobile Battlefield	Alpha	Mobile_Battlefield	Advantage, Decepticon	
-Overload	Alpha	Overload	Advantage, Decepticon	
-Radio for Support	Alpha	Radio_for_Support	Advantage, Decepticon	
-Rewarding Retreat	Alpha	Rewarding_Retreat	Advantage, Decepticon	
-Scientific Analysis	Alpha	Scientific_Analysis	Advantage, Decepticon	
-Seeder Troops	Alpha	Seeder_Troops	Advantage, Decepticon	
-Selfish Destruction	Alpha	Selfish_Destruction	Advantage, Decepticon	
-Sidewinder Missiles	Alpha	Sidewinder_Missiles	Advantage, Decepticon	
-Trapped	Alpha	Trapped	Advantage, Decepticon	
-Anti-Matter Lab	Alpha	Anti-Matter_Lab	Resource	
-Arc	Alpha	Arc	Resource	
-Bergen Solar Energy Plant	Alpha	Bergen_Solar_Energy_Plant	Resource	
-Burma Crystal Mine	Alpha	Burma_Crystal_Mine	Resource	
-City of Sub-Atlantica	Alpha	City_of_Sub-Atlantica	Resource	
-Cybertonium Pits	Alpha	Cybertonium_Pits	Resource	
-Cybertron Energy Stockpile	Alpha	Cybertron_Energy_Stockpile	Resource	
-Cybertron Warehouse	Alpha	Cybertron_Warehouse	Resource	
-Dinobot Island	Alpha	Dinobot_Island	Resource	
-EJK Research Center	Alpha	EJK_Research_Center	Resource	
-Generator Sub-Station	Alpha	Generator_Sub-Station	Resource	
-Heart of Cybertron	Alpha	Heart_of_Cybertron	Resource	
-High-Grain Crops	Alpha	High-Grain_Crops	Resource	
-Iacon of Cybertron	Alpha	Iacon_of_Cybertron	Resource	
-Iron Mountain	Alpha	Iron_Mountain	Resource	
-Kingston Oil Fields	Alpha	Kingston_Oil_Fields	Resource	
-Kingston Oil Reserves	Alpha	Kingston_Oil_Reserves	Resource	
-Lost Cybertronian Shuttle	Alpha	Lost_Cybertronian_Shuttle	Resource	
-Military Test Site	Alpha	Military_Test_Site	Resource	
-Negavator	Alpha	Negavator	Resource	
-Nemesis	Alpha	Nemesis	Resource	
-Nightbird	Alpha	Nightbird	Resource	
-Nova Power Core	Alpha	Nova_Power_Core	Resource	
-Oceanic Oil Rig	Alpha	Oceanic_Oil_Rig	Resource	
-Power Relay Station	Alpha	Power_Relay_Station	Resource	
-Quantum Labs	Alpha	Quantum_Labs	Resource	
-Scrap Metal Refinery	Alpha	Scrap_Metal_Refinery	Resource	
-Secluded Hangers	Alpha	Secluded_Hangers	Resource	
-Sherman Dam	Alpha	Sherman_Dam	Resource	
-Solar Needle	Alpha	Solar_Needle	Resource	
-Solar Power Station #001	Alpha	Solar_Power_Station__001	Resource	
-Solar Power Tower	Alpha	Solar_Power_Tower	Resource	
-Sub-Atlantican Depths	Alpha	Sub-Atlantican_Depths	Resource	
-Sub-Atlantican Furnace	Alpha	Sub-Atlantican_Furnace	Resource	
-T.O.R.Q. III	Alpha	TORQ_III	Resource	
-World Energy Chip	Alpha	World_Energy_Chip	Resource	
-Beachcomber	Alpha	Beachcomber	Robot, Autobot	CAR MODE) Dunebuggy [1E] Escape battle and return to Homebase without takeing damage.
-Bluestreak	Alpha	Bluestreak	Robot, Autobot	
-Brawn	Alpha	Brawn	Robot, Autobot	
-Bumblebee	Alpha	Bumblebee	Robot, Autobot	
-Cliffjumper	Alpha	Cliffjumper	Robot, Autobot	
-Cosmos	Alpha	Cosmos	Robot, Autobot	UFO MODE) Communications [4E] From Homebase, allow any Autobot in the field to join battle.
-Gears	Alpha	Gears	Robot, Autobot	CAR MODE) Infared [3E] Look at opponent's hand.
-Grapple	Alpha	Grapple	Robot, Autobot	TRUCK MODE) Precision Craine [3E] Search Supply Deck and place any installation Resource into play.
-Grimlock (Dinobot)	Alpha	Grimlock_	Robot, Autobot	DINO MODE) Me, Grimelock, King: Grimlock gains +1 STR for every battle the Autobots win that involve Grimlock.
-Hoist	Alpha	Hoist	Robot, Autobot	TRUCK MODE) Tow Truck [2E] In battle, return Hoist and one Autobot in CAR or TRUCK MODE to Homebase without taking damage.
-Hound	Alpha	Hound	Robot, Autobot	CAR MODE) Radar [2E] During deployment, look at the top card of opponent's Supply Deck.
-Huffer	Alpha	Huffer	Robot, Autobot	
-Inferno	Alpha	Inferno	Robot, Autobot	TRUCK MODE) Fire Suppressant [5E] In battle, prevent any one robot from taking damage.
-Ironhide	Alpha	Ironhide	Robot, Autobot	
-Jazz	Alpha	Jazz	Robot, Autobot	CAR MODE) Sound Show [2E] In battle, no Decepticons may use special abilities for the remainder of the battle.
-Mirage	Alpha	Mirage	Robot, Autobot	CAR MODE) Invisible Retreat [1E] Escape battle and return to Homebase without taking damage.
-Optimus Prime	Alpha	Optimus_Prime	Robot, Autobot	TRUCK MODE) Semi-Slam [2e] In battle, give 3 damage to any one Decepticon regardless of battle outcome.
-Perceptor	Alpha	Perceptor	Robot, Autobot	MICROSCOPE MODE) Light Cannon [2E] Scrap any one item Resource.
-Powerglide	Alpha	Powerglide	Robot, Autobot	PLANE MODE) Powerglide Pow [2E] In battle, scrap the last Advantage played by opponent.  Opponent may play another instead.
-Prowl	Alpha	Prowl	Robot, Autobot	CAR MODE) Patrol: While Prowl is in the field, Autobot Support Limit is +1.
-Ratchet	Alpha	Ratchet	Robot, Autobot	CAR MODE) Rescue [4E] From the field, remove up to 2 damage from any robot.
-Red Alert	Alpha	Red_Alert	Robot, Autobot	CAR MODE) Patrol: While Red Alert is in the field, Autobot Support Limit is +1.
-Seaspray	Alpha	Seaspray	Robot, Autobot	HOVERCRAFT MODE) Ocean Support: Gain +2 STR when battle is located on a marine Resource.
-Sideswipe	Alpha	Sideswipe	Robot, Autobot	
-Skids	Alpha	Skids	Robot, Autobot	
-Skyfire (Real Name-Jetfire)	Alpha	Skyfire_	Robot, Autobot	JET MODE) Transport [7E] In battle, add any support robot from the field or Homebase regardless of speed.  this does not count toward the Support Limit.
-Slag (Dinobot)	Alpha	Slag_	Robot, Autobot	DINO MODE) Flametrow [1E] In battle, scrap any one support Robot in battle.
-Sludge (Dinobot)	Alpha	Sludge_	Robot, Autobot	DINO MODE) Earthshaking Stomp [2E] In battle, prevent all Robots in battle from activating special abilities.
-Smokescreen	Alpha	Smokescreen	Robot, Autobot	CAR MODE) Magnetic Smoke [E] From the field, target any one opponent Robot.  Target may not battle untile Autobot players's next action phase.
-Snarl (Dinobot)	Alpha	Snarl_	Robot, Autobot	DINO MODE)  Armored Hide: In battle, gain + STR for every opponent support Robot in battle.
-Sunstreaker	Alpha	Sunstreaker	Robot, Autobot	
-Swoop (Dinobot)	Alpha	Swoop_	Robot, Autobot	DINO MODE) Air-to-Air Missles [2E] Deal 2 damage to any Robot.
-Tracks	Alpha	Tracks	Robot, Autobot	CAR MODE) Flight [2E] Escape battle and return to homebase without taking damage.
-Trailbreaker	Alpha	Trailbreaker	Robot, Autobot	
-Wheeljack	Alpha	Wheeljack	Robot, Autobot	
-Windcharger	Alpha	Windcharger	Robot, Autobot	
-Astrotrain	Alpha	Astrotrain	Robot, Decepticon	TRAIN MODE) Energy Transport: While Astrotrain is on a resource, gain additional +3E per turn.                    SHUTTLE MODE) (Put a counter on Astrotrain to represent SHUTTLE MODE.) Troop Transport [3E] Allow any one Robot to join battle.
-Blitzwing	Alpha	Blitzwing	Robot, Decepticon	TANK MODE) Tank Slam: Gain +2 STR if transforming from JET MODE.                    JET MODE) (Put a counter on Blitzwing to represent JET MODE.)
-Bombshell (Insecticon)	Alpha	Bombshell_	Robot, Decepticon	INSECT MODE) Cerebro-Shell [4E] Take control of any one Robot for one turn.  Play does not gain Energon from resources controlled by affected Robot.
-Bonecrusher (Constructicon)	Alpha	Bonecrusher_	Robot, Decepticon	VEHICLET MODE) Crushing Speed [2E] From the field, deal 2 damage to any robot in the field.
-Buzzsaw	Alpha	Buzzsaw	Robot, Decepticon	CASSETTE MODE) While in CASSETTE MODE, place in set aside area.
-Devastator (Constructicon)	Alpha	Devastator_	Robot, Decepticon	SUB-GROUP MODE) Return all six Contructicons to Devastator's location and set aside Devastator.
-Dirge	Alpha	Dirge	Robot, Decepticon	
-Frenzy	Alpha	Frenzy	Robot, Decepticon	CASSETTE MODE) While in CASSETTE MODE, place in set aside area.
-Hook (Constructicon)	Alpha	Hook_	Robot, Decepticon	
-Kickback (Insecticon)	Alpha	Kickback_	Robot, Decepticon	
-Laserbeak	Alpha	Laserbeak	Robot, Decepticon	CASSETTE MODE) While in CASSETTE MODE, place in set aside area.
-Long Haul (Constructicon)	Alpha	Long_Haul_	Robot, Decepticon	VEHICLET MODE) Heat Seeking Missiles [3E] From the field, deal 2 damage to any Robot in th field.
-Megatron	Alpha	Megatron	Robot, Decepticon	GUN MODE) Deadly Sidearm [7E] Attach to any target Robot. Target Robot gains +7 STR.  If this Robot takes damage, return Megatron to Homebase.
-Mixmaster (Constructicon)	Alpha	Mixmaster_	Robot, Decepticon	VEHICLET MODE) Chemical Mixing Drum [4E] Decepticon Support Limit is +1.
-Ramjet	Alpha	Ramjet	Robot, Decepticon	JET MODE) Mid-Air Collision [2E] In battle, deal 3 damage to any target robot.
-Ravage	Alpha	Ravage	Robot, Decepticon	CASSETTE MODE) While in CASSETTE MODE, place in set aside area.
-Rumble	Alpha	Rumble	Robot, Decepticon	CASSETTE MODE) While in CASSETTE MODE, place in set aside area.
-Scavenger (Constructicon)	Alpha	Scavenger_	Robot, Decepticon	VEHICLET MODE) Shovel Sensors [3E] Look through Supply Deck and place any one Advantage or Resource in hand.
-Scrapper (Constructicon)	Alpha	Scrapper_	Robot, Decepticon	VEHICLET MODE) Recycle Autobots: When an Autobot is scrapped, scrap a card from your hand to add that Autobot's Energon cost to your Decepticon Energon Bank.
-Shockwave	Alpha	Shockwave	Robot, Decepticon	
-Shrapnel (Insecticon)	Alpha	Shrapnel_	Robot, Decepticon	INSECT MODE) Electrical Control [2E] In battle, take control of any Advantage and use it in current battle.
-Skywarp	Alpha	Skywarp	Robot, Decepticon	JET MODE) Sneaky Withdrawl [3E] Escape battle and return to Homebase without taking damage.
-Soundwave	Alpha	Soundwave	Robot, Decepticon	TAPEDECK MODE) Recording Device [2E] Look at opponent's hand.
-Spectro	Alpha	Spectro	Robot, Decepticon	CAMERA MODE) Reflector: If VIEWFINDER and SPYGLASS are at the same location and in CAMERA MODE, pay 1E to look at the top three cards of any Supply Deck.
-Spyglass	Alpha	Spyglass	Robot, Decepticon	CAMERA MODE) Reflector: If SPECTRO and VIEWFINDER are at same location and in CAMERA MODE, pay 1E to look at the top three cards of any Supply Deck.
-Starscream	Alpha	Starscream	Robot, Decepticon	JET MODE) Cluster Bomb [3E] In battle, scrap any one Advantage used in battle.
-Thundercracker	Alpha	Thundercracker	Robot, Decepticon	JET MODE) Sonic Boom [3E] In battle, give all opponent robot -2 STR.
-Trust	Alpha	Trust	Robot, Decepticon	JET MODE) Destructive Speed [4E] Decepticon Support Limit is +1.
-Viewfinder	Alpha	Viewfinder	Robot, Decepticon	CAMERA MODE) Reflector: If SPECTRO and SPYGLASS are at same location and in CAMERA MODE, pay 1E to look at the top three cards of any Supply Deck.
+Name	Set	ImageFile	Type	Mode	Script
+Brothers in Arms	Alpha	Brothers_in_Arms	Advantage, Autobot		
+Bump and Run	Alpha	Bump_and_Run	Advantage, Autobot		
+Buried Alive	Alpha	Buried_Alive	Advantage, Autobot		
+Concentrated Fire	Alpha	Concentrated_Fire	Advantage, Autobot		
+Conned 'Con	Alpha	Conned_Con	Advantage, Autobot		
+Continuous Tinkering	Alpha	Continuous_Tinkering	Advantage, Autobot		
+Dinobot Crackdown	Alpha	Dinobot_Crackdown	Advantage, Autobot		
+Disrupted Supply Lines	Alpha	Disrupted_Supply_Lines	Advantage, Autobot		
+Electro-Mesh Prison	Alpha	Electro-Mesh_Prison	Advantage, Autobot		
+Equally Unstable Ground	Alpha	Equally_Unstable_Ground	Advantage, Autobot		
+Grapling Dart	Alpha	Grapling_Dart	Advantage, Autobot		
+Heroic Rescue	Alpha	Heroic_Rescue	Advantage, Autobot		
+Hidden Bumber Gun	Alpha	Hidden_Bumber_Gun	Advantage, Autobot		
+Hydrofoil Conversion	Alpha	Hydrofoil_Conversion	Advantage, Autobot		
+Interception	Alpha	Interception	Advantage, Autobot		
+Jet Tether	Alpha	Jet_Tether	Advantage, Autobot
+Jetpack	Alpha	Jetpack	Advantage, Autobot
+Life Line	Alpha	Life_Line	Advantage, Autobot
+Nimble Evasion	Alpha	Nimble_Evasion	Advantage, Autobot
+On Patrol	Alpha	On_Patrol	Advantage, Autobot
+Overhaul	Alpha	Overhaul	Advantage, Autobot
+Plugging the Works	Alpha	Plugging_the_Works	Advantage, Autobot
+Prehistoric Posse	Alpha	Prehistoric_Posse	Advantage, Autobot
+Pushing Forward	Alpha	Pushing_Forward	Advantage, Autobot
+Rescue Partners	Alpha	Rescue_Partners	Advantage, Autobot
+Shoulder Mounted Rocket	Alpha	Shoulder_Mounted_Rocket	Advantage, Autobot
+Valiant Charge	Alpha	Valiant_Charge	Advantage, Autobot
+Alligaticon Prime	Alpha	Alligaticon_Prime	Advantage, Decepticon
+Baseless Accusations	Alpha	Baseless_Accusations	Advantage, Decepticon
+Circuit Linker	Alpha	Circuit_Linker	Advantage, Decepticon
+Constructicons Unite!	Alpha	Constructicons_Unite	Advantage, Decepticon
+Data Thief	Alpha	Data_Thief	Advantage, Decepticon
+Death From Above	Alpha	Death_From_Above	Advantage, Decepticon
+Deathtrap	Alpha	Deathtrap	Advantage, Decepticon
+Direct Hit	Alpha	Direct_Hit	Advantage, Decepticon
+Dome of Invulnerability (SubAtlantican)	Alpha	Dome_of_Invulnerability	Advantage, Decepticon
+Expert Work Crew	Alpha	Expert_Work_Crew	Advantage, Decepticon
+Fire from Cover	Alpha	Fire_from_Cover	Advantage, Decepticon
+Homing Laser	Alpha	Homing_Laser	Advantage, Decepticon
+Impersonation	Alpha	Impersonation	Advantage, Decepticon
+Insecticons Arise	Alpha	Insecticons_Arise	Advantage, Decepticon
+Invisibility Spray	Alpha	Invisibility_Spray	Advantage, Decepticon
+Long Range Theft	Alpha	Long_Range_Theft	Advantage, Decepticon
+Mobile Battlefield	Alpha	Mobile_Battlefield	Advantage, Decepticon
+Overload	Alpha	Overload	Advantage, Decepticon
+Radio for Support	Alpha	Radio_for_Support	Advantage, Decepticon
+Rewarding Retreat	Alpha	Rewarding_Retreat	Advantage, Decepticon
+Scientific Analysis	Alpha	Scientific_Analysis	Advantage, Decepticon
+Seeder Troops	Alpha	Seeder_Troops	Advantage, Decepticon
+Selfish Destruction	Alpha	Selfish_Destruction	Advantage, Decepticon
+Sidewinder Missiles	Alpha	Sidewinder_Missiles	Advantage, Decepticon
+Trapped	Alpha	Trapped	Advantage, Decepticon
+Anti-Matter Lab	Alpha	Anti-Matter_Lab	Resource
+Arc	Alpha	Arc	Resource
+Bergen Solar Energy Plant	Alpha	Bergen_Solar_Energy_Plant	Resource
+Burma Crystal Mine	Alpha	Burma_Crystal_Mine	Resource
+City of Sub-Atlantica	Alpha	City_of_Sub-Atlantica	Resource
+Cybertonium Pits	Alpha	Cybertonium_Pits	Resource
+Cybertron Energy Stockpile	Alpha	Cybertron_Energy_Stockpile	Resource
+Cybertron Warehouse	Alpha	Cybertron_Warehouse	Resource
+Dinobot Island	Alpha	Dinobot_Island	Resource
+EJK Research Center	Alpha	EJK_Research_Center	Resource
+Generator Sub-Station	Alpha	Generator_Sub-Station	Resource
+Heart of Cybertron	Alpha	Heart_of_Cybertron	Resource
+High-Grain Crops	Alpha	High-Grain_Crops	Resource
+Iacon of Cybertron	Alpha	Iacon_of_Cybertron	Resource
+Iron Mountain	Alpha	Iron_Mountain	Resource
+Kingston Oil Fields	Alpha	Kingston_Oil_Fields	Resource
+Kingston Oil Reserves	Alpha	Kingston_Oil_Reserves	Resource
+Lost Cybertronian Shuttle	Alpha	Lost_Cybertronian_Shuttle	Resource
+Military Test Site	Alpha	Military_Test_Site	Resource
+Negavator	Alpha	Negavator	Resource
+Nemesis	Alpha	Nemesis	Resource
+Nightbird	Alpha	Nightbird	Resource
+Nova Power Core	Alpha	Nova_Power_Core	Resource
+Oceanic Oil Rig	Alpha	Oceanic_Oil_Rig	Resource
+Power Relay Station	Alpha	Power_Relay_Station	Resource
+Quantum Labs	Alpha	Quantum_Labs	Resource
+Scrap Metal Refinery	Alpha	Scrap_Metal_Refinery	Resource
+Secluded Hangers	Alpha	Secluded_Hangers	Resource		
+Sherman Dam	Alpha	Sherman_Dam	Resource		
+Solar Needle	Alpha	Solar_Needle	Resource		
+Solar Power Station #001	Alpha	Solar_Power_Station__001	Resource		
+Solar Power Tower	Alpha	Solar_Power_Tower	Resource		
+Sub-Atlantican Depths	Alpha	Sub-Atlantican_Depths	Resource		
+Sub-Atlantican Furnace	Alpha	Sub-Atlantican_Furnace	Resource		
+T.O.R.Q. III	Alpha	TORQ_III	Resource		
+World Energy Chip	Alpha	World_Energy_Chip	Resource		
+Beachcomber	Alpha	Beachcomber	Robot, Autobot	CAR MODE) Dunebuggy [1E] Escape battle and return to Homebase without takeing damage.	<s><l>Alt Mode Token</l><f>/spawn Beachcomber [Flipped]</f></s>
+Bluestreak	Alpha	Bluestreak	Robot, Autobot		<s><l>Alt Mode Token</l><f>/spawn Bluestreak [Flipped]</f></s>
+Brawn	Alpha	Brawn	Robot, Autobot		<s><l>Alt Mode Token</l><f>/spawn Brawn [Flipped]</f></s>
+Bumblebee	Alpha	Bumblebee	Robot, Autobot		<s><l>Alt Mode Token</l><f>/spawn Bumblebee [Flipped]</f></s>
+Cliffjumper	Alpha	Cliffjumper	Robot, Autobot		<s><l>Alt Mode Token</l><f>/spawn Cliffjumper [Flipped]</f></s>
+Cosmos	Alpha	Cosmos	Robot, Autobot	UFO MODE) Communications [4E] From Homebase, allow any Autobot in the field to join battle.	<s><l>Alt Mode Token</l><f>/spawn Cosmos [Flipped]</f></s>
+Gears	Alpha	Gears	Robot, Autobot	CAR MODE) Infared [3E] Look at opponent's hand.	<s><l>Alt Mode Token</l><f>/spawn Gears [Flipped]</f></s>
+Grapple	Alpha	Grapple	Robot, Autobot	TRUCK MODE) Precision Craine [3E] Search Supply Deck and place any installation Resource into play.	<s><l>Alt Mode Token</l><f>/spawn Grapple [Flipped]</f></s>
+Grimlock (Dinobot)	Alpha	Grimlock	Robot, Autobot	DINO MODE) Me, Grimelock, King: Grimlock gains +1 STR for every battle the Autobots win that involve Grimlock.	<s><l>Alt Mode Token</l><f>/spawn Grimlock (Dinobot) [Flipped]</f></s>
+Hoist	Alpha	Hoist	Robot, Autobot	TRUCK MODE) Tow Truck [2E] In battle, return Hoist and one Autobot in CAR or TRUCK MODE to Homebase without taking damage.	<s><l>Alt Mode Token</l><f>/spawn Hoist [Flipped]</f></s>
+Hound	Alpha	Hound	Robot, Autobot	CAR MODE) Radar [2E] During deployment, look at the top card of opponent's Supply Deck.	<s><l>Alt Mode Token</l><f>/spawn Hound [Flipped]</f></s>
+Huffer	Alpha	Huffer	Robot, Autobot		<s><l>Alt Mode Token</l><f>/spawn Huffer [Flipped]</f></s>
+Inferno	Alpha	Inferno	Robot, Autobot	TRUCK MODE) Fire Suppressant [5E] In battle, prevent any one robot from taking damage.	<s><l>Alt Mode Token</l><f>/spawn Inferno [Flipped]</f></s>
+Ironhide	Alpha	Ironhide	Robot, Autobot		<s><l>Alt Mode Token</l><f>/spawn Ironhide [Flipped]</f></s>
+Jazz	Alpha	Jazz	Robot, Autobot	CAR MODE) Sound Show [2E] In battle, no Decepticons may use special abilities for the remainder of the battle.	<s><l>Alt Mode Token</l><f>/spawn Jazz [Flipped]</f></s>
+Mirage	Alpha	Mirage	Robot, Autobot	CAR MODE) Invisible Retreat [1E] Escape battle and return to Homebase without taking damage.	<s><l>Alt Mode Token</l><f>/spawn Mirage [Flipped]</f></s>
+Optimus Prime	Alpha	Optimus_Prime	Robot, Autobot	TRUCK MODE) Semi-Slam [2e] In battle, give 3 damage to any one Decepticon regardless of battle outcome.	<s><l>Alt Mode Token</l><f>/spawn Optimus Prime [Flipped]</f></s>
+Perceptor	Alpha	Perceptor	Robot, Autobot	MICROSCOPE MODE) Light Cannon [2E] Scrap any one item Resource.	<s><l>Alt Mode Token</l><f>/spawn Perceptor [Flipped]</f></s>
+Powerglide	Alpha	Powerglide	Robot, Autobot	PLANE MODE) Powerglide Pow [2E] In battle, scrap the last Advantage played by opponent.  Opponent may play another instead.	<s><l>Alt Mode Token</l><f>/spawn Powerglide [Flipped]</f></s>
+Prowl	Alpha	Prowl	Robot, Autobot	CAR MODE) Patrol: While Prowl is in the field, Autobot Support Limit is +1.	<s><l>Alt Mode Token</l><f>/spawn Prowl [Flipped]</f></s>
+Ratchet	Alpha	Ratchet	Robot, Autobot	CAR MODE) Rescue [4E] From the field, remove up to 2 damage from any robot.	<s><l>Alt Mode Token</l><f>/spawn Ratchet [Flipped]</f></s>
+Red Alert	Alpha	Red_Alert	Robot, Autobot	CAR MODE) Patrol: While Red Alert is in the field, Autobot Support Limit is +1.	<s><l>Alt Mode Token</l><f>/spawn Red Alert [Flipped]</f></s>
+Seaspray	Alpha	Seaspray	Robot, Autobot	HOVERCRAFT MODE) Ocean Support: Gain +2 STR when battle is located on a marine Resource.	<s><l>Alt Mode Token</l><f>/spawn Seaspray [Flipped]</f></s>
+Sideswipe	Alpha	Sideswipe	Robot, Autobot		<s><l>Alt Mode Token</l><f>/spawn Sideswipe [Flipped]</f></s>
+Skids	Alpha	Skids	Robot, Autobot		<s><l>Alt Mode Token</l><f>/spawn Skids [Flipped]</f></s>
+Skyfire (Real Name-Jetfire)	Alpha	Skyfire	Robot, Autobot	JET MODE) Transport [7E] In battle, add any support robot from the field or Homebase regardless of speed.  this does not count toward the Support Limit.	<s><l>Alt Mode Token</l><f>/spawn Skyfire (Real Name-Jetfire) [Flipped]</f></s>
+Slag (Dinobot)	Alpha	Slag	Robot, Autobot	DINO MODE) Flametrow [1E] In battle, scrap any one support Robot in battle.	<s><l>Alt Mode Token</l><f>/spawn Slag (Dinobot) [Flipped]</f></s>
+Sludge (Dinobot)	Alpha	Sludge	Robot, Autobot	DINO MODE) Earthshaking Stomp [2E] In battle, prevent all Robots in battle from activating special abilities.	<s><l>Alt Mode Token</l><f>/spawn Sludge (Dinobot) [Flipped]</f></s>
+Smokescreen	Alpha	Smokescreen	Robot, Autobot	CAR MODE) Magnetic Smoke [E] From the field, target any one opponent Robot.  Target may not battle untile Autobot players's next action phase.	<s><l>Alt Mode Token</l><f>/spawn Smokescreen [Flipped]</f></s>
+Snarl (Dinobot)	Alpha	Snarl	Robot, Autobot	DINO MODE)  Armored Hide: In battle, gain + STR for every opponent support Robot in battle.	<s><l>Alt Mode Token</l><f>/spawn Snarl (Dinobot) [Flipped]</f></s>
+Sunstreaker	Alpha	Sunstreaker	Robot, Autobot		<s><l>Alt Mode Token</l><f>/spawn Sunstreaker [Flipped]</f></s>
+Swoop (Dinobot)	Alpha	Swoop	Robot, Autobot	DINO MODE) Air-to-Air Missles [2E] Deal 2 damage to any Robot.	<s><l>Alt Mode Token</l><f>/spawn Swoop (Dinobot) [Flipped]</f></s>
+Tracks	Alpha	Tracks	Robot, Autobot	CAR MODE) Flight [2E] Escape battle and return to homebase without taking damage.	<s><l>Alt Mode Token</l><f>/spawn Tracks [Flipped]</f></s>
+Trailbreaker	Alpha	Trailbreaker	Robot, Autobot		<s><l>Alt Mode Token</l><f>/spawn Trailbreaker [Flipped]</f></s>
+Wheeljack	Alpha	Wheeljack	Robot, Autobot		<s><l>Alt Mode Token</l><f>/spawn Wheeljack [Flipped]</f></s>
+Windcharger	Alpha	Windcharger	Robot, Autobot		<s><l>Alt Mode Token</l><f>/spawn Windcharger [Flipped]</f></s>
+Astrotrain	Alpha	Astrotrain	Robot, Decepticon	TRAIN MODE) Energy Transport: While Astrotrain is on a resource, gain additional +3E per turn.                    SHUTTLE MODE) (Put a counter on Astrotrain to represent SHUTTLE MODE.) Troop Transport [3E] Allow any one Robot to join battle.	<s><l>Alt Mode Token</l><f>/spawn Astrotrain [Flipped]</f></s>
+Blitzwing	Alpha	Blitzwing	Robot, Decepticon	TANK MODE) Tank Slam: Gain +2 STR if transforming from JET MODE.                    JET MODE) (Put a counter on Blitzwing to represent JET MODE.)	<s><l>Alt Mode Token</l><f>/spawn Blitzwing [Flipped]</f></s>
+Bombshell (Insecticon)	Alpha	Bombshell	Robot, Decepticon	INSECT MODE) Cerebro-Shell [4E] Take control of any one Robot for one turn.  Play does not gain Energon from resources controlled by affected Robot.	<s><l>Alt Mode Token</l><f>/spawn Bombshell (Insecticon) [Flipped]</f></s>
+Bonecrusher (Constructicon)	Alpha	Bonecrusher	Robot, Decepticon	VEHICLET MODE) Crushing Speed [2E] From the field, deal 2 damage to any robot in the field.	<s><l>Alt Mode Token</l><f>/spawn Bonecrusher (Constructicon) [Flipped]</f></s>
+Buzzsaw	Alpha	Buzzsaw	Robot, Decepticon	CASSETTE MODE) While in CASSETTE MODE, place in set aside area.	<s><l>Alt Mode Token</l><f>/spawn Buzzsaw [Flipped]</f></s>
+Devastator (Constructicon)	Alpha	Devastator	Robot, Decepticon	SUB-GROUP MODE) Return all six Contructicons to Devastator's location and set aside Devastator.	<s><l>Alt Mode Token</l><f>/spawn Devastator (Constructicon) [Flipped]</f></s>
+Dirge	Alpha	Dirge	Robot, Decepticon		<s><l>Alt Mode Token</l><f>/spawn Dirge [Flipped]</f></s>
+Frenzy	Alpha	Frenzy	Robot, Decepticon	CASSETTE MODE) While in CASSETTE MODE, place in set aside area.	<s><l>Alt Mode Token</l><f>/spawn Frenzy [Flipped]</f></s>
+Hook (Constructicon)	Alpha	Hook	Robot, Decepticon		<s><l>Alt Mode Token</l><f>/spawn Hook (Constructicon) [Flipped]</f></s>
+Kickback (Insecticon)	Alpha	Kickback	Robot, Decepticon		<s><l>Alt Mode Token</l><f>/spawn Kickback (Insecticon) [Flipped]</f></s>
+Laserbeak	Alpha	Laserbeak	Robot, Decepticon	CASSETTE MODE) While in CASSETTE MODE, place in set aside area.	<s><l>Alt Mode Token</l><f>/spawn Laserbeak [Flipped]</f></s>
+Long Haul (Constructicon)	Alpha	Long_Haul	Robot, Decepticon	VEHICLET MODE) Heat Seeking Missiles [3E] From the field, deal 2 damage to any Robot in th field.	<s><l>Alt Mode Token</l><f>/spawn Long Haul (Constructicon) [Flipped]</f></s>
+Megatron	Alpha	Megatron	Robot, Decepticon	GUN MODE) Deadly Sidearm [7E] Attach to any target Robot. Target Robot gains +7 STR.  If this Robot takes damage, return Megatron to Homebase.	<s><l>Alt Mode Token</l><f>/spawn Megatron [Flipped]</f></s>
+Mixmaster (Constructicon)	Alpha	Mixmaster	Robot, Decepticon	VEHICLET MODE) Chemical Mixing Drum [4E] Decepticon Support Limit is +1.	<s><l>Alt Mode Token</l><f>/spawn Mixmaster (Constructicon) [Flipped]</f></s>
+Ramjet	Alpha	Ramjet	Robot, Decepticon	JET MODE) Mid-Air Collision [2E] In battle, deal 3 damage to any target robot.	<s><l>Alt Mode Token</l><f>/spawn Ramjet [Flipped]</f></s>
+Ravage	Alpha	Ravage	Robot, Decepticon	CASSETTE MODE) While in CASSETTE MODE, place in set aside area.	<s><l>Alt Mode Token</l><f>/spawn Ravage [Flipped]</f></s>
+Rumble	Alpha	Rumble	Robot, Decepticon	CASSETTE MODE) While in CASSETTE MODE, place in set aside area.	<s><l>Alt Mode Token</l><f>/spawn Rumble [Flipped]</f></s>
+Scavenger (Constructicon)	Alpha	Scavenger	Robot, Decepticon	VEHICLET MODE) Shovel Sensors [3E] Look through Supply Deck and place any one Advantage or Resource in hand.	<s><l>Alt Mode Token</l><f>/spawn Scavenger (Constructicon) [Flipped]</f></s>
+Scrapper (Constructicon)	Alpha	Scrapper	Robot, Decepticon	VEHICLET MODE) Recycle Autobots: When an Autobot is scrapped, scrap a card from your hand to add that Autobot's Energon cost to your Decepticon Energon Bank.	<s><l>Alt Mode Token</l><f>/spawn Scrapper (Constructicon) [Flipped]</f></s>
+Shockwave	Alpha	Shockwave	Robot, Decepticon		<s><l>Alt Mode Token</l><f>/spawn Shockwave [Flipped]</f></s>
+Shrapnel (Insecticon)	Alpha	Shrapnel	Robot, Decepticon	INSECT MODE) Electrical Control [2E] In battle, take control of any Advantage and use it in current battle.	<s><l>Alt Mode Token</l><f>/spawn Shrapnel (Insecticon) [Flipped]</f></s>
+Skywarp	Alpha	Skywarp	Robot, Decepticon	JET MODE) Sneaky Withdrawl [3E] Escape battle and return to Homebase without taking damage.	<s><l>Alt Mode Token</l><f>/spawn Skywarp [Flipped]</f></s>
+Soundwave	Alpha	Soundwave	Robot, Decepticon	TAPEDECK MODE) Recording Device [2E] Look at opponent's hand.	<s><l>Alt Mode Token</l><f>/spawn Soundwave [Flipped]</f></s>
+Spectro	Alpha	Spectro	Robot, Decepticon	CAMERA MODE) Reflector: If VIEWFINDER and SPYGLASS are at the same location and in CAMERA MODE, pay 1E to look at the top three cards of any Supply Deck.	<s><l>Alt Mode Token</l><f>/spawn Spectro [Flipped]</f></s>
+Spyglass	Alpha	Spyglass	Robot, Decepticon	CAMERA MODE) Reflector: If SPECTRO and VIEWFINDER are at same location and in CAMERA MODE, pay 1E to look at the top three cards of any Supply Deck.	<s><l>Alt Mode Token</l><f>/spawn Spyglass [Flipped]</f></s>
+Starscream	Alpha	Starscream	Robot, Decepticon	JET MODE) Cluster Bomb [3E] In battle, scrap any one Advantage used in battle.	<s><l>Alt Mode Token</l><f>/spawn Starscream [Flipped]</f></s>
+Thundercracker	Alpha	Thundercracker	Robot, Decepticon	JET MODE) Sonic Boom [3E] In battle, give all opponent robot -2 STR.	<s><l>Alt Mode Token</l><f>/spawn Thundercracker [Flipped]</f></s>
+Trust	Alpha	Trust	Robot, Decepticon	JET MODE) Destructive Speed [4E] Decepticon Support Limit is +1.	<s><l>Alt Mode Token</l><f>/spawn Trust [Flipped]</f></s>
+Viewfinder	Alpha	Viewfinder	Robot, Decepticon	CAMERA MODE) Reflector: If SPECTRO and SPYGLASS are at same location and in CAMERA MODE, pay 1E to look at the top three cards of any Supply Deck.	<s><l>Alt Mode Token</l><f>/spawn Viewfinder [Flipped]</f></s>
+Beachcomber [Flipped]	Alpha	Beachcomber_Flip	Token Alt Mode, Autobot		
+Bluestreak [Flipped]	Alpha	Bluestreak_Flip	Token Alt Mode, Autobot		
+Brawn [Flipped]	Alpha	Brawn_Flip	Token Alt Mode, Autobot		
+Bumblebee [Flipped]	Alpha	Bumblebee_Flip	Token Alt Mode, Autobot		
+Cliffjumper [Flipped]	Alpha	Cliffjumper_Flip	Token Alt Mode, Autobot		
+Cosmos [Flipped]	Alpha	Cosmos_Flip	Token Alt Mode, Autobot		
+Gears [Flipped]	Alpha	Gears_Flip	Token Alt Mode, Autobot
+Grapple [Flipped]	Alpha	Grapple_Flip	Token Alt Mode, Autobot
+Grimlock (Dinobot) [Flipped]	Alpha	Grimlock_Flip	Token Alt Mode, Autobot
+Hoist [Flipped]	Alpha	Hoist_Flip	Token Alt Mode, Autobot
+Hound [Flipped]	Alpha	Hound_Flip	Token Alt Mode, Autobot
+Huffer [Flipped]	Alpha	Huffer_Flip	Token Alt Mode, Autobot
+Inferno [Flipped]	Alpha	Inferno_Flip	Token Alt Mode, Autobot
+Ironhide [Flipped]	Alpha	Ironhide_Flip	Token Alt Mode, Autobot
+Jazz [Flipped]	Alpha	Jazz_Flip	Token Alt Mode, Autobot
+Mirage [Flipped]	Alpha	Mirage_Flip	Token Alt Mode, Autobot
+Optimus Prime [Flipped]	Alpha	Optimus_Prime_Flip	Token Alt Mode, Autobot
+Perceptor [Flipped]	Alpha	Perceptor_Flip	Token Alt Mode, Autobot
+Powerglide [Flipped]	Alpha	Powerglide_Flip	Token Alt Mode, Autobot
+Prowl [Flipped]	Alpha	Prowl_Flip	Token Alt Mode, Autobot
+Ratchet [Flipped]	Alpha	Ratchet_Flip	Token Alt Mode, Autobot
+Red Alert [Flipped]	Alpha	Red_Alert_Flip	Token Alt Mode, Autobot
+Seaspray [Flipped]	Alpha	Seaspray_Flip	Token Alt Mode, Autobot
+Sideswipe [Flipped]	Alpha	Sideswipe_Flip	Token Alt Mode, Autobot
+Skids [Flipped]	Alpha	Skids_Flip	Token Alt Mode, Autobot
+Skyfire (Real Name-Jetfire) [Flipped]	Alpha	Skyfire_Flip	Token Alt Mode, Autobot
+Slag (Dinobot) [Flipped]	Alpha	Slag_Flip	Token Alt Mode, Autobot
+Sludge (Dinobot) [Flipped]	Alpha	Sludge_Flip	Token Alt Mode, Autobot
+Smokescreen [Flipped]	Alpha	Smokescreen_Flip	Token Alt Mode, Autobot
+Snarl (Dinobot) [Flipped]	Alpha	Snarl_Flip	Token Alt Mode, Autobot
+Sunstreaker [Flipped]	Alpha	Sunstreaker_Flip	Token Alt Mode, Autobot
+Swoop (Dinobot) [Flipped]	Alpha	Swoop_Flip	Token Alt Mode, Autobot
+Tracks [Flipped]	Alpha	Tracks_Flip	Token Alt Mode, Autobot
+Trailbreaker [Flipped]	Alpha	Trailbreaker_Flip	Token Alt Mode, Autobot
+Wheeljack [Flipped]	Alpha	Wheeljack_Flip	Token Alt Mode, Autobot
+Windcharger [Flipped]	Alpha	Windcharger_Flip	Token Alt Mode, Autobot
+Astrotrain [Flipped]	Alpha	Astrotrain_Flip	Token Alt Mode, Decepticon
+Blitzwing [Flipped]	Alpha	Blitzwing_Flip	Token Alt Mode, Decepticon
+Bombshell (Insecticon) [Flipped]	Alpha	Bombshell_Flip	Token Alt Mode, Decepticon
+Bonecrusher (Constructicon) [Flipped]	Alpha	Bonecrusher_Flip	Token Alt Mode, Decepticon
+Buzzsaw [Flipped]	Alpha	Buzzsaw_Flip	Token Alt Mode, Decepticon
+Devastator (Constructicon) [Flipped]	Alpha	Devastator_Flip	Token Alt Mode, Decepticon
+Dirge [Flipped]	Alpha	Dirge_Flip	Token Alt Mode, Decepticon
+Frenzy [Flipped]	Alpha	Frenzy_Flip	Token Alt Mode, Decepticon
+Hook (Constructicon) [Flipped]	Alpha	Hook_Flip	Token Alt Mode, Decepticon
+Kickback (Insecticon) [Flipped]	Alpha	Kickback_Flip	Token Alt Mode, Decepticon
+Laserbeak [Flipped]	Alpha	Laserbeak_Flip	Token Alt Mode, Decepticon
+Long Haul (Constructicon) [Flipped]	Alpha	Long_Haul_Flip	Token Alt Mode, Decepticon
+Megatron [Flipped]	Alpha	Megatron_Flip	Token Alt Mode, Decepticon
+Mixmaster (Constructicon) [Flipped]	Alpha	Mixmaster_Flip	Token Alt Mode, Decepticon
+Ramjet [Flipped]	Alpha	Ramjet_Flip	Token Alt Mode, Decepticon
+Ravage [Flipped]	Alpha	Ravage_Flip	Token Alt Mode, Decepticon
+Rumble [Flipped]	Alpha	Rumble_Flip	Token Alt Mode, Decepticon
+Scavenger (Constructicon) [Flipped]	Alpha	Scavenger_Flip	Token Alt Mode, Decepticon
+Scrapper (Constructicon) [Flipped]	Alpha	Scrapper_Flip	Token Alt Mode, Decepticon		
+Shockwave [Flipped]	Alpha	Shockwave_Flip	Token Alt Mode, Decepticon		
+Shrapnel (Insecticon) [Flipped]	Alpha	Shrapnel_Flip	Token Alt Mode, Decepticon		
+Skywarp [Flipped]	Alpha	Skywarp_Flip	Token Alt Mode, Decepticon		
+Soundwave [Flipped]	Alpha	Soundwave_Flip	Token Alt Mode, Decepticon		
+Spectro [Flipped]	Alpha	Spectro_Flip	Token Alt Mode, Decepticon		
+Spyglass [Flipped]	Alpha	Spyglass_Flip	Token Alt Mode, Decepticon		
+Starscream [Flipped]	Alpha	Starscream_Flip	Token Alt Mode, Decepticon		
+Thundercracker [Flipped]	Alpha	Thundercracker_Flip	Token Alt Mode, Decepticon		
+Trust [Flipped]	Alpha	Trust_Flip	Token Alt Mode, Decepticon		
+Viewfinder [Flipped]	Alpha	Viewfinder_Flip	Token Alt Mode, Decepticon		
