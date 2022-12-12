@@ -1,0 +1,11 @@
+<version>
+
+<lastupdateYYMMDD>121222</lastupdateYYMMDD>
+<quality>MAX</quality>
+<versionurl>https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/updatelist.txt</updateurl>
+<message>Moved the plugin to GitHub to host</message>
+
+</version>
+
+
