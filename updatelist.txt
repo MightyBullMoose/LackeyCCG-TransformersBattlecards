@@ -4,7 +4,6 @@ plugins/TransformersBattlecards/formats.txt	https://raw.githubusercontent.com/Mi
 plugins/TransformersBattlecards/plugininfo.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/plugininfo.txt	460968
 plugins/TransformersBattlecards/pluginpreferences.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/pluginpreferences.txt	449238
 plugins/TransformersBattlecards/README.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/README.txt	24930
-plugins/TransformersBattlecards/recentdecks.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/recentdecks.txt	-1
 plugins/TransformersBattlecards/Transformers_Battlecards_RG.pdf	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/Transformers_Battlecards_RG.pdf	2626125
 plugins/TransformersBattlecards/updatelist.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/updatelist.txt	366149
 plugins/TransformersBattlecards/version.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/version.txt	37400
