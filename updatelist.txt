@@ -1,12 +1,11 @@
 TransformersBattleCards	12-12-22
+plugins/TransformersBattlecards/version.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/version.txt	37400
 plugins/TransformersBattlecards/bot.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/bot.jpg	-26978
 plugins/TransformersBattlecards/formats.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/formats.txt	19676
 plugins/TransformersBattlecards/plugininfo.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/plugininfo.txt	460968
 plugins/TransformersBattlecards/pluginpreferences.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/pluginpreferences.txt	449238
 plugins/TransformersBattlecards/README.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/README.txt	24930
 plugins/TransformersBattlecards/Transformers_Battlecards_RG.pdf	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/Transformers_Battlecards_RG.pdf	2626125
-plugins/TransformersBattlecards/updatelist.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/updatelist.txt	366149
-plugins/TransformersBattlecards/version.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/version.txt	37400
 plugins/TransformersBattlecards/images/Phase1.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/images/Phase1.jpg	-12331
 plugins/TransformersBattlecards/images/Phase2.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/images/Phase2.jpg	280182
 plugins/TransformersBattlecards/images/Phase3.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/images/Phase3.jpg	-8018
@@ -16,7 +15,7 @@ plugins/TransformersBattlecards/sets/carddata.txt	https://raw.githubusercontent.
 plugins/TransformersBattlecards/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/sets/setimages/general/cardback.jpg	-24982
 plugins/TransformersBattlecards/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/sets/setimages/general/spawned.jpg	72140
 plugins/TransformersBattlecards/sounds/cardrotate.mp3	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/sounds/cardrotate.mp3	309943
-images/backgrounds/Transformers_Playmat.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/images/Transformers_Playmat.jpg	-95148
+images/backgrounds/Transformers_Playmat.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/images/Transformers_Playmat.jpg	-191318
 images/backgrounds/Transformers_Battlecards_Playmat.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/images/Transformers_Battlecards_Playmat.jpg	-191318
 images/backgrounds/Transformers_Battlecards_Playmat_2.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/images/Transformers_Battlecards_Playmat_2.jpg	-180489
 images/zonebackgrounds/Transformers_Zone.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/images/Transformers_Zone.jpg	-44660
