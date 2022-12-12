@@ -19,7 +19,7 @@ plugins/TransformersBattlecards/sets/setimages/general/spawned.jpg	https://raw.g
 plugins/TransformersBattlecards/sounds/cardrotate.mp3	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/sounds/cardrotate.mp3	309943
 images/backgrounds/Transformers_Playmat.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/images/Transformers_Playmat.jpg	-95148
 images/backgrounds/Transformers_Battlecards_Playmat.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/images/Transformers_Battlecards_Playmat.jpg	-191318
-images/backgrounds/Transformers_Battlecards_Playmat_2.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/images/Transformers_Battlecards_Playmat2.jpg	-180489
+images/backgrounds/Transformers_Battlecards_Playmat_2.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/images/Transformers_Battlecards_Playmat_2.jpg	-180489
 images/zonebackgrounds/Transformers_Zone.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/images/Transformers_Zone.jpg	-44660
 CardGeneralURLs:
 https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/setimages/
