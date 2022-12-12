@@ -20,4 +20,4 @@ images/backgrounds/Transformers_Battlecards_Playmat.jpg	https://raw.githubuserco
 images/backgrounds/Transformers_Battlecards_Playmat_2.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/images/Transformers_Battlecards_Playmat_2.jpg	-180489
 images/zonebackgrounds/Transformers_Zone.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/images/Transformers_Zone.jpg	-44660
 CardGeneralURLs:
-https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/set/setimages/
+https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-TransformersBattlecards/main/sets/setimages/
